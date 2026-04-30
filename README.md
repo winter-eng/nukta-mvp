@@ -4,6 +4,9 @@ NUKTA: Safe &amp; Share — A decentralized "Airbnb for retail shelves" platform
 # NUKTA: Safe & Share 🚀
 **The "Airbnb for Retail Shelves" – Transforming urban spaces into a decentralized marketplace.**
 
+<img src="Image.png" alt="Логотип" width="320" height="250"/>
+
+
 ## 🌍 Overview
 NUKTA is a hyper-local e-commerce ecosystem designed to empower small businesses and local creators. We provide a platform where any business owner (cafes, pharmacies, etc.) can rent out empty shelf space to local sellers, creating automated self-service micro-points across the city.
 
@@ -26,5 +29,8 @@ NUKTA is a hyper-local e-commerce ecosystem designed to empower small businesses
 *   **Buranov Akbarjon** — Fullstack Developer
 *   **Zakharyan Valerik** — Backend & Data Architect
 *   **Nosirov Temurbek** — Marketing & Growth
+
+<img src="image-f5ca7c95-94c6-4d5d-96a4-1e326cb8c69b.png" alt="Логотип2" width="200" height="150"/>
+
 
 #e-commerce #startup #react #fastapi #sharing-economy #pwa #fintech #smart-retail

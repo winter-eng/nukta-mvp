@@ -30,7 +30,7 @@ NUKTA is a hyper-local e-commerce ecosystem designed to empower small businesses
 *   **Zakharyan Valerik** — Backend & Data Architect
 *   **Nosirov Temurbek** — Marketing & Growth
 
-<img src="image-f5ca7c95-94c6-4d5d-96a4-1e326cb8c69b.png" alt="Логотип2" width="200" height="215"/>
+<img src="image-f5ca7c95-94c6-4d5d-96a4-1e326cb8c69b.png" alt="Логотип2" width="388" height="370"/>
 
 
 #e-commerce #startup #react #fastapi #sharing-economy #pwa #fintech #smart-retail
